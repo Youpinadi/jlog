@@ -1,13 +1,13 @@
 jLog
 ====
 
-jquery logger
+Simple plugin that let's you log the current result of the jQuery selector
 
 
 Usage
 ====
 
-```javacript
+```javascript
 $('.any_selector').log().hide();
 $('.any_selector').log('show elements').show();
 ```
