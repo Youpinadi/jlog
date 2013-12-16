@@ -7,7 +7,7 @@ jquery logger
 Usage
 ====
 
-'''javacript
+```javacript
 $('.any_selector').log().hide();
 $('.any_selector').log('show elements').show();
-'''
+```
